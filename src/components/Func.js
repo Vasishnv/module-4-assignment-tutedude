@@ -80,7 +80,7 @@ const ButtonStyle = {
   backgroundColor: "#4CAF50", 
   color: "white",
   margin : ".2rem 2rem",       
-  border: "none",            // No border
+  border: "none",            
   padding: "10px 40px",   
   fontSize: "16px",         
   borderRadius: "5px",       
